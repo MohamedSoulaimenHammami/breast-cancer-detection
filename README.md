@@ -1,4 +1,2 @@
-# breast-cancer-detection
-c'est un projet académique qui consiste a utiliser les morpholoqie mathémariques dans un projet dans le domaine de santé.
-c'est pour cela , j'ai implementer un modéle pour la detection de cancer des seins ,puis j'ai utilisé la méthode "Watershed" pour segmenter le tumeur.
-Pour plus de détail vous pouvez consulter le fichier breast cancer detection .pptx pour mieux comprendre de quoi il s'agit.
+# Breast-Cancer-Detection
+  Le projet vise à utiliser des morphologies mathématiques afin d'améliorer le domaine de la santé. C'est pourquoi j'ai utilisé le modèle Resnet 50 pour la détection du cancer du sein, puis j'ai utilisé la méthode "Watershed" pour segmenter la tumeur. Si vous souhaitez en savoir plus sur la détection du cancer du sein, vous pouvez consulter la présentation PowerPoint sur la détection du cancer du sein.
